@@ -1,4 +1,8 @@
-�̹� ���´� QGIS 2.18������ ��ġ�ϴ� ������ �����մϴ�.
+이번 강좌는 최신버전인 QGIS 3.18버전을 설치하는 과정을 설명합니다.
+단, 장기적으로 안정된 LTR(Long Term Release)버전은 QGIS 3.16를 다운받아 사용할 수 도 있습니다.
 
+QGIS프로그램은 다음 사이트에서 다운받아 설치할 수 있습니다.
 
-�̹� ���¸� ��ġ�ڽ��ϴ�.
+https://qgis.org/ko/site/forusers/download.html
+
+이번 강좌를 마치겠습니다.
