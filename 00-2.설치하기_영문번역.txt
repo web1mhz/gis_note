@@ -1,4 +1,8 @@
-This tutorial describes the process of installing QGIS 2.18.
+This tutorial explains the process of installing the latest version, QGIS 3.18.
+However, long term stable LTR (Long Term Release) version can also be used by downloading QGIS 3.16.
 
+The QGIS program can be downloaded and installed from the following site.
 
-I will finish this course.
+https://qgis.org/en/site/forusers/download.html
+
+This is the end of this course.
