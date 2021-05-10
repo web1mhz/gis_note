@@ -2,4 +2,4 @@
 
 ## GIS 실습자료는 다음 저장소에서 다운받아 사용할 수 있습니다.
 
-- web1mhz/QGIS_ex_data
+- github.com/web1mhz/QGIS_ex_data
